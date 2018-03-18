@@ -1,0 +1,10 @@
+{
+  "meal": {
+    "breakfast": ["gsdfg"],
+    "snack1": ["sfgd"],
+    "lunch": ["dsgdsfg"],
+    "snack2": ["dsfg"],
+    "dinner": ["dgsdg"]
+  },
+  "menu": ["foobar", "bar", "baz"]
+}
